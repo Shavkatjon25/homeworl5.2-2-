@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+
+}
+.katta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.continer{
+    display: flex;
+    width: 600px;
+    gap: 30px;
+    height: 200px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #08f7f7;
+
+}
+.st{
+    font-size: 150px;
+    font-weight: 500;
+}
+.mt{
+    font-size: 150px;
+    font-weight: 500;
+}
+.sd{
+    font-size: 150px;
+    font-weight: 500;
+}
+.int{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.sti{
+    width: 60px;
+}
+.mti{
+    width: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.sdi{
+    width: 60px;
+}
+.bttn{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn:hover {
+    background: red;
+    color: aliceblue;
+    border: none;
+    width: 55px;
+    height: 20px;
+    border-radius: 10px;
+}
+.rang{
+    margin-top: 10px;
+    text-align: center;
+}
